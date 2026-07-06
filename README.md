@@ -8,7 +8,7 @@ This repository contains R implementations for the Monte Carlo methods exercises
 
 ### Exercise 1: European Options and Put-Call Parity
 
-**File:** `Exercise1_European_Options_Put_Call_Parity.R`
+**File:** `Ex1_MonteCarlo.R`
 
 **Description:**
 - Implements plain Monte Carlo estimator using exact GBM simulation
@@ -26,7 +26,7 @@ This repository contains R implementations for the Monte Carlo methods exercises
 
 ### Exercise 2: Convergence Study
 
-**File:** `Exercise2_Convergence_Study.R`
+**File:** `Ex2_Convergence.R`
 
 **Description:**
 - Implements path-dependent simulation using Euler scheme
@@ -46,7 +46,7 @@ This repository contains R implementations for the Monte Carlo methods exercises
 
 ### Exercise 3: Digital Call Option
 
-**File:** `Exercise3_Digital_Call_Option.R`
+**File:** `Exercise3_DigitalCall.R`
 
 **Description:**
 - Computes analytical Black-Scholes price for digital call
